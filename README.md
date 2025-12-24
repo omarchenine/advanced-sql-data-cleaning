@@ -121,6 +121,6 @@ Through this project, I've demonstrated:
 
 ---
 
-**Author**: [Your Name]  
-**Contact**: [Your Email/LinkedIn]  
+**Author**: Chenine Omar Seifeddine  
+**Contact**: [Connect with me on LinkedIn](https://www.linkedin.com/in/chenine-omar-seieddine-042606323)  
 **Last Updated**: December 2025
